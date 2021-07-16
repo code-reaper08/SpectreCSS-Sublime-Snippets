@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<samp>${1:Sample output here}</samp>
+]]></content>
+
+<tabTrigger>sp-out</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-sample output</description>
+</snippet>
