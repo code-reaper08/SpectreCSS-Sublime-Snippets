@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<u>${1:Underlined text here}</u>
+]]></content>
+
+<tabTrigger>sp-uline</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Underlined text</description>
+</snippet>
