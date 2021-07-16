@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<kbd>${1: Ctrl + A}</kbd>
+]]></content>
+
+<tabTrigger>sp-kbd</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-KeyBindings</description>
+</snippet>
