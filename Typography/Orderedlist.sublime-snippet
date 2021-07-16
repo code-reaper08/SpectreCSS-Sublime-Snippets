@@ -10,7 +10,7 @@
     </ul>
   </li>
   <li>${6:list item 3}</li>
-</0l>
+</ol>
 ]]></content>
 
 <tabTrigger>sp-ol</tabTrigger>
