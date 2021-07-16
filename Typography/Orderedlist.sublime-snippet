@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+<ol>
+  <li>${1:list item 1}</li>
+  <li>${2:list item 2}
+    <ul>
+      <li>${3:list item 2.1}</li>
+      <li>${4:list item 2.2}</li>
+      <li>${5:list item 2.3}</li>
+    </ul>
+  </li>
+  <li>${6:list item 3}</li>
+</0l>
+]]></content>
+
+<tabTrigger>sp-ol</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-OrderedList</description>
+</snippet>
