@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<mark>${1:Highlighted text here}</mark>
+]]></content>
+
+<tabTrigger>sp-high</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Highlight</description>
+</snippet>
