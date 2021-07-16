@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<em>${1:text to be emphasised}</em>
+]]></content>
+
+<tabTrigger>sp-em</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-emphasis</description>
+</snippet>
