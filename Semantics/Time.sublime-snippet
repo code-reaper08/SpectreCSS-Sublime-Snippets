@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<time>${1: Time here ... 12:30}</time>
+]]></content>
+
+<tabTrigger>sp-time</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Time</description>
+</snippet>
