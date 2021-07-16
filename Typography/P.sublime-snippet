@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<p>${1:text here}</p>
+]]></content>
+
+<tabTrigger>sp-p</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-paragraph</description>
+</snippet>

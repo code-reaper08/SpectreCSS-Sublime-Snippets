@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<blockquote>
+  <p>${1:Paragraph here}</p>
+  <cite>${2:citation here}</cite>
+</blockquote>
+]]></content>
+
+<tabTrigger>sp-bq</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-blockquote</description>
+</snippet>
