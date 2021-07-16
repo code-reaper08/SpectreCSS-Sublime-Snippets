@@ -3,7 +3,7 @@
 <i>${1: Italic text here}</i>
 ]]></content>
 
-<tabTrigger>sp-p</tabTrigger>
+<tabTrigger>sp-it</tabTrigger>
 <scope>text.html</scope>
-    <description>Spectre-paragraph</description>
+    <description>Spectre-Italics</description>
 </snippet>
