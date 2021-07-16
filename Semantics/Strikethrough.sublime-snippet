@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<s>${1:Strikethrough text here}</s>
+]]></content>
+
+<tabTrigger>sp-strike</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Strikethrough text</description>
+</snippet>
