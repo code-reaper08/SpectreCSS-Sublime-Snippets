@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+        <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
+<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css">
+<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-icons.min.css">
+]]></content>
+
+<tabTrigger>sp-cdn</tabTrigger>
+<scope>text.html</scope>
+    <description>CDN-Links</description>
+</snippet>
