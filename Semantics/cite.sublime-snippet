@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<cite>${1: Citation text here}</cite>
+]]></content>
+
+<tabTrigger>sp-cite</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-citation</description>
+</snippet>
