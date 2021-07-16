@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<var>${1:x}</var> = <var>${2:y}</var> + 2
+]]></content>
+
+<tabTrigger>sp-var</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Variables</description>
+</snippet>
