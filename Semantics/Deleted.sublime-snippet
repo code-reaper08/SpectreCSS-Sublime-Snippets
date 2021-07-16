@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<del>${1:Text to be shown deleted}</del>
+]]></content>
+
+<tabTrigger>sp-del</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-deleted</description>
+</snippet>
