@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<dl>
+  <dt>${1:description list term}</dt>
+  <dd>${2:description list description}</dd>
+</dl>
+]]></content>
+
+<tabTrigger>sp-dl</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-DescriptionList</description>
+</snippet>
