@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+${1:Text here} <sub>${2:Subscripted text here}</sub>
+]]></content>
+
+<tabTrigger>sp-sub</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Subscripted text</description>
+</snippet>
