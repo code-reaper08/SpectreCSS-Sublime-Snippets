@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<ruby>${1:漢} 
+  <rt>${2:kan}</rt>${3:字} 
+  <rt>${4:ji}</rt>
+</ruby>
+]]></content>
+
+<tabTrigger>sp-rby</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Ruby(For East-Asian typography)</description>
+</snippet>
