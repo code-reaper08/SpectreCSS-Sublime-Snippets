@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<code>${1: Code content here}</code>
+]]></content>
+
+<tabTrigger>sp-code</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-code</description>
+</snippet>
