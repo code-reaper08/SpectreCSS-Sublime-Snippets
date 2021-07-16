@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<abbr title="${1: expanded abbreviation}">${2: abbreviated text}</abbr>
+]]></content>
+
+<tabTrigger>sp-abbr</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-abbreviation</description>
+</snippet>
