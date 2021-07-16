@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<ins>${1:inserted text}</ins>
+]]></content>
+
+<tabTrigger>sp-ins</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Inserted text</description>
+</snippet>
