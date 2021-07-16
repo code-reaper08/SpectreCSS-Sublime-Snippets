@@ -1,6 +1,4 @@
 {
-	"tab_completion": true,
-    "auto_complete": true,
 	"auto_complete_triggers":
 	[
 		{"selector": "text.html", "characters": "sp"}

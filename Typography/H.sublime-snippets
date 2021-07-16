@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+        <h1>${1:text here}</h1>
+<h1>${2:text here}<small class="label">${3: another text here}</small></h1>
+<span class="h1">${4:text here}</span>
+]]></content>
+
+<tabTrigger>sp-h1</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-h1</description>
+</snippet>
