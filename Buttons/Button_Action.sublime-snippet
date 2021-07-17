@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<button class="btn btn-action"><i class="icon icon-menu"></i></button>
+]]></content>
+
+<tabTrigger>sp-btn-menu</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Menu Action Button</description>
+</snippet>
