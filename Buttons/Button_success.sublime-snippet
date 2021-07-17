@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<button class="btn btn-success">${1:text here}</button>
+]]></content>
+
+<tabTrigger>sp-btn-s</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Button Success (Green)</description>
+</snippet>
