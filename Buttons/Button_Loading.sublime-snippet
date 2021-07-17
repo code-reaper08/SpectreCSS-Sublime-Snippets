@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<button class="btn loading">${1:text here}</button>
+]]></content>
+
+<tabTrigger>sp-btn-load</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Button Loading</description>
+</snippet>
