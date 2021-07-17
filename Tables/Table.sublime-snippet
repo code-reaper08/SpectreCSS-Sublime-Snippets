@@ -1,0 +1,24 @@
+<snippet>
+    <content><![CDATA[
+<table class="table">
+  <thead>
+    <tr>
+      <th>${1:heading 1}</th>
+      <th>${2:heading 2}</th>
+      <th>${3:heading 3}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="active">
+      <td>${4: Table data 1}</td>
+      <td>${4: Table data 1}</td>
+      <td>${4: Table data 1}</td>
+    </tr>
+  </tbody>
+</table>
+]]></content>
+
+<tabTrigger>sp-table</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Default Table</description>
+</snippet>
