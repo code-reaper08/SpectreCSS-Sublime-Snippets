@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<p class="lang-ja">${1:祇園精舎の鐘の声、諸行無常の響きあり。沙羅双樹の花の色、盛者必衰の理をあらはす。おごれる人も久しからず。ただ春の夜の夢のごとし。たけき者も遂にはほろびぬ、ひとへ‌​に風の前の塵に同じ。}</p>
+]]></content>
+
+<tabTrigger>sp-j</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Japanese font support</description>
+</snippet>
