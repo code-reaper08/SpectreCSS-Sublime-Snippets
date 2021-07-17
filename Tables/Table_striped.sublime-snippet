@@ -11,8 +11,8 @@
   <tbody>
     <tr class="active">
       <td>${4: Table data 1}</td>
-      <td>${4: Table data 1}</td>
-      <td>${4: Table data 1}</td>
+      <td>${4: Table data 2}</td>
+      <td>${4: Table data 3}</td>
     </tr>
   </tbody>
 </table>
