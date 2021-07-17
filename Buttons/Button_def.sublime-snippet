@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<button class="btn">default button</button>
+<button class="btn">${1:Button text here}</button>
 ]]></content>
 
 <tabTrigger>sp-btn</tabTrigger>
