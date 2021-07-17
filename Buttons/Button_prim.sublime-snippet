@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-<button class="btn btn-primary">primary button</button>
+<button class="btn btn-primary">${1:primary button}</button>
 ]]></content>
 
 <tabTrigger>sp-btn-p</tabTrigger>
 <scope>text.html</scope>
-    <description>Spectre-paragraph</description>
+    <description>Spectre-Primary Button</description>
 </snippet>
