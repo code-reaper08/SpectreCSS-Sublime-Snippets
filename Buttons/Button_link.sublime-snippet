@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<button class="btn btn-link">${1:link text here}</button>
+]]></content>
+
+<tabTrigger>sp-btn-lnk</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Link Button</description>
+</snippet>
