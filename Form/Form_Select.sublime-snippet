@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+<div class="form-group">
+  <select class="form-select">
+    <option>${1:option 1}</option>
+    <option>${2:option 2}</option>
+    <option>${3:option 3}</option>
+    <option>${4:option 4}</option>
+  </select>
+</div>
+]]></content>
+
+<tabTrigger>sp-fs</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Form Select</description>
+</snippet>
