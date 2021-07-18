@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+span class="label">${1:label text here}</span>
+]]></content>
+
+<tabTrigger>sp-l</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Label Default</description>
+</snippet>
