@@ -2,7 +2,7 @@
     <content><![CDATA[
 <div class="form-group">
   <label class="form-label" for="input-example-3">${1:label text here}</label>
-  <textarea class="form-input" id="input-example-3" placeholder="${2:placeholder text here}" rows="3"></textarea>
+  <textarea class="form-input" placeholder="${2:placeholder text here}" rows="3"></textarea>
 </div>
 ]]></content>
 

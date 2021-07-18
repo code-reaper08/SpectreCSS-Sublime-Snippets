@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<input class="form-input" type="url" placeholder="URL" value="${1:sample URL here}">
+]]></content>
+
+<tabTrigger>sp-furl</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-URL Input</description>
+</snippet>

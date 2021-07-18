@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
 <div class="form-group">
-  <label class="form-label" for="input-example-1">${1:lbel text here}</label>
-  <input class="form-input" type="text" id="input-example-1" placeholder="${2:placeholder text here}">
+  <label class="form-label" for="input-example-1">${1:label text here}</label>
+  <input class="form-input" type="text" placeholder="${2:placeholder text here}">
 </div>
 ]]></content>
 
