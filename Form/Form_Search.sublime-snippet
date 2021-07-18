@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<input class="form-input" id="input-example-10" type="search" placeholder="${1:placeholder text here}">
+]]></content>
+
+<tabTrigger>sp-fsearch</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Search Input</description>
+</snippet>
