@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+<div class="form-group">
+  <label class="form-checkbox">
+    <input type="checkbox">
+    <i class="form-icon"></i> ${1:text here}
+  </label>
+</div>
+]]></content>
+
+<tabTrigger>sp-fchk</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Form Checkbox</description>
+</snippet>
