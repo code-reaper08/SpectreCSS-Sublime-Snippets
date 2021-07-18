@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+input class="form-input" type="number" placeholder="${1:placeholder text here}" value="${2:sample value here}">
+]]></content>
+
+<tabTrigger>sp-fnum</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Number Input</description>
+</snippet>
