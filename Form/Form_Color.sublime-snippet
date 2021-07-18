@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<input class="form-input" type="color" value="${1:sample hex color code here}">
+]]></content>
+
+<tabTrigger>sp-fcolor</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Color Input</description>
+</snippet>
