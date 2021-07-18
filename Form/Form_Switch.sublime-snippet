@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+<div class="form-group">
+  <label class="form-switch">
+    <input type="checkbox">
+    <i class="form-icon"></i> ${1:Text here}
+  </label>
+</div>
+]]></content>
+
+<tabTrigger>sp-fswitch</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Form Switch</description>
+</snippet>
