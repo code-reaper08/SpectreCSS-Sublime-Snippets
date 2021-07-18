@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+span class="label label-secondary">${1:label text here}</span>
+]]></content>
+
+<tabTrigger>sp-lsec</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Label Secondary</description>
+</snippet>
