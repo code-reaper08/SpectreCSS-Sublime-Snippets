@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<div class="has-icon-right">
+  <input type="text" class="form-input" placeholder="${1:placeholder text here}">
+  <i class="form-icon loading"></i>
+</div>
+]]></content>
+
+<tabTrigger>sp-fload</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Input Loading</description>
+</snippet>
