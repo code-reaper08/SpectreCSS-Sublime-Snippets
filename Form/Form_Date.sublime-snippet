@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<input class="form-input" type="date" value="${1:MM/DD/YYYY}">
+]]></content>
+
+<tabTrigger>sp-fdate</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Date Input</description>
+</snippet>
