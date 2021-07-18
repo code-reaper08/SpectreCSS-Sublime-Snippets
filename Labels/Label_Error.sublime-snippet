@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+span class="label label-error">${1:label text here}</span>
+]]></content>
+
+<tabTrigger>sp-lerr</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Label Error</description>
+</snippet>
