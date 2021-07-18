@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+span class="label label-success">${1:label text here}</span>
+]]></content>
+
+<tabTrigger>sp-lsuc</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Label Success</description>
+</snippet>
