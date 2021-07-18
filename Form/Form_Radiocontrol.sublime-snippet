@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+<div class="form-group">
+  <label class="form-label">${1:label text here}</label>
+  <label class="form-radio">
+    <input type="radio" name="gender" checked>
+    <i class="form-icon"></i> ${2
+    :option 1}
+  </label>
+  <label class="form-radio">
+    <input type="radio" name="gender">
+    <i class="form-icon"></i> ${3:option 2}
+  </label>
+</div>
+]]></content>
+
+<tabTrigger>sp-fr</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Radio Control</description>
+</snippet>
