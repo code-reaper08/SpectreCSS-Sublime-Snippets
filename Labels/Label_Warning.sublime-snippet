@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+span class="label label-warning">${1:label text here}</span>
+]]></content>
+
+<tabTrigger>sp-lwarn</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Label Warning</description>
+</snippet>
