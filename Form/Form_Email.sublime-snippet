@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<input class="form-input" id="input-example-8" type="email" placeholder="Email" value="${1:sample email here}" pattern="[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+.[a-zA-Z0-9-.]+$">
+]]></content>
+
+<tabTrigger>sp-femail</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Email Input</description>
+</snippet>
