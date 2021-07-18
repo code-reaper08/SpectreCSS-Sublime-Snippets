@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<pre class="code" data-lang="${1:language name}">
+    <code>${2:Your snippet here}</code>
+</pre>
+]]></content>
+
+<tabTrigger>sp-codem</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Code Snippet</description>
+</snippet>
