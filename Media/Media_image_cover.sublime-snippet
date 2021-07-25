@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<img src="${1:image source here}" class="img-fit-cover" alt="alt text here">
+]]></content>
+
+<tabTrigger>sp-i-cov</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Image-Covers</description>
+</snippet>
