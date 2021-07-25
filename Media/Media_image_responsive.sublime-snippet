@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<img src="${1:image source here}" class="img-responsive" alt="${2:alt text here}">
+]]></content>
+
+<tabTrigger>sp-img</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-responsive image</description>
+</snippet>
