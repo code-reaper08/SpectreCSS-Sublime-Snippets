@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<figcaption class="figure-caption text-${1:add position center,left,right}">${2: caption text here}</figcaption>
+]]></content>
+
+<tabTrigger>sp-cap</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-figcaption</description>
+</snippet>
