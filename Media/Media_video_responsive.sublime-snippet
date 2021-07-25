@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<video class="video-responsive" src="${1:video source here}"></video>
+]]></content>
+
+<tabTrigger>sp-v</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-responsive video element</description>
+</snippet>
