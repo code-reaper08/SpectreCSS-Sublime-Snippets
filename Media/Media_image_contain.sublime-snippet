@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<img src="${1:image source here}" class="img-fit-contain" alt="${2:alt text here}">
+]]></content>
+
+<tabTrigger>sp-i-con</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Image-Contain (auto crop itself)</description>
+</snippet>
