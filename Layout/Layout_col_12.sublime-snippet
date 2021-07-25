@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+<div class="columns">
+    <div class="column col-12">
+        <div>
+            ${1:content here}
+        </div>
+    </div>
+</div>
+]]></content>
+
+<tabTrigger>sp-col-12</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-column 12</description>
+</snippet>
