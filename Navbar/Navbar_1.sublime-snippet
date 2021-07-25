@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+<div class="navbar">
+<div class="navbar-section"><a class="navbar-brand text-bold mr-2" href="${1:target}">${2:brand text}</a><a class="btn btn-link" href="${3:target}">${4:navitem1}</a><a class="btn btn-link" href="${5:target}">${6:navitem2}</a></div>
+    <div class="navbar-section">
+      <div class="input-group input-inline">
+        <input class="form-input" type="text" placeholder="${7:placeholder text here}">
+        <button class="btn btn-primary input-group-btn">${8:button text}</button>
+      </div>
+    </div>
+</div>
+</div>
+]]></content>
+
+<tabTrigger>sp-nav1</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-navbar type 1</description>
+</snippet>
