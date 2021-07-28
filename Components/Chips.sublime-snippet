@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+<div class="chip">
+  <img src="${1:src text here}" class="avatar avatar-sm">
+    ${2:text here}
+  <a href="${3:target url}" class="btn btn-clear" aria-label="Close" role="button"></a>
+</div>
+]]></content>
+
+<tabTrigger>sp-chips</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Chips</description>
+</snippet>
