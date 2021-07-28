@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<button class="btn badge" data-badge="${1:badge content here}">
+  ${2:button text here}
+</button>
+]]></content>
+
+<tabTrigger>sp-bdg-btn</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Badge-Button</description>
+</snippet>
