@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+<div class="card">
+    <div class="card-image"><img class="img-responsive" src="${1:image source here}" alt="${2:alt text here}"></div>
+        <div class="card-header">
+            <div class="card-title h5">${3:card title here}</div>
+                <div class="card-subtitle text-gray">${4:subtitle here}</div>
+                  </div>
+                  <div class="card-body">${5:body content here}</div>
+                  <div class="card-footer"><a class="btn btn-primary" href="${6:target url}">${7:button text here}</a></div>
+</div>
+]]></content>
+
+<tabTrigger>sp-card</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Card default</description>
+</snippet>
