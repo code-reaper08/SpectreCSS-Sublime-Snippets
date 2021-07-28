@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+<div class="bar bar-slider">
+    <div class="bar-item" role="progressbar" style="width:${1:bar value here}%;">
+    <button class="bar-slider-btn btn tooltip" data-tooltip="${2: bar tooltip value here}%" role="slider">
+    </button>
+</div>
+]]></content>
+
+<tabTrigger>sp-sl-t</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-slider-with tool tip</description>
+</snippet>
