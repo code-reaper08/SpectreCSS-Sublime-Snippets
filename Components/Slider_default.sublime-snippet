@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<div class="bar bar-sm">
+  <div class="bar-item" role="progressbar" style="width:${1: fill value here}%;" aria-valuenow="${2:current value here}" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+]]></content>
+
+<tabTrigger>sp-sl</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Slider-default</description>
+</snippet>
