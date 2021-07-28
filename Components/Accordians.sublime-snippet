@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+<details class="accordion" open>
+  <summary class="accordion-header">
+    <i class="icon icon-arrow-right mr-1"></i>
+    Title
+  </summary>
+  <div class="accordion-body">
+    ${1:accordion content here}
+  </div>
+</details>
+]]></content>
+
+<tabTrigger>sp-acc</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-accordian</description>
+</snippet>
