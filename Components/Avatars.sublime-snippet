@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<figure class="avatar avatar-xl"><img src="${1:image source here}" alt="${2:alt text here}"></figure>
+]]></content>
+
+<tabTrigger>sp-ava</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Avatar</description>
+</snippet>
