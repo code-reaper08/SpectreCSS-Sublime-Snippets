@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<span class="badge" data-badge="${1:badge content}">
+  ${2:span text here}
+</span>
+]]></content>
+
+<tabTrigger>sp-bdg</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-badge-default</description>
+</snippet>
