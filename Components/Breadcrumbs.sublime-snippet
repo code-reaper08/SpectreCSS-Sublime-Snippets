@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<span class="breadcrumb">
+    <p class="breadcrumb-item">${1:tet content here}</p>
+]]></content>
+
+<tabTrigger>sp-bc</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Breadcrumbs</description>
+</snippet>
