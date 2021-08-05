@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<div class="popover popover-right">
+<div class="popover popover-left">
   <button class="btn btn-primary">${1: button text here}</button>
   <div class="popover-container">
     <div class="card">
@@ -18,7 +18,7 @@
 </div>
 ]]></content>
 
-<tabTrigger>sp-rpop</tabTrigger>
+<tabTrigger>sp-lpop</tabTrigger>
 <scope>text.html</scope>
-    <description>Spectre-Right popovers</description>
+    <description>Spectre-Left popovers</description>
 </snippet>
