@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<button class="btn tooltip" data-tooltip="${1: tooltip text here}">${2: button text here}</button>
+]]></content>
+
+<tabTrigger>sp-tt</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Tooltip</description>
+</snippet>
