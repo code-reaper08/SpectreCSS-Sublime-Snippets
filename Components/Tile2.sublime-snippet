@@ -1,0 +1,24 @@
+<snippet>
+    <content><![CDATA[
+<div class="tile tile-centered">
+  <div class="tile-icon">
+    <div class="example-tile-icon">
+      <i class="icon icon-file centered"></i>
+    </div>
+  </div>
+  <div class="tile-content">
+    <div class="tile-title">${1:spectre-docs.pdf}</div>
+    <small class="tile-subtitle text-gray">${2:14MB · Public · 1 Jan, 2017}</small>
+  </div>
+  <div class="tile-action">
+    <button class="btn btn-link">
+      <i class="icon icon-more-vert"></i>
+    </button>
+  </div>
+</div>
+]]></content>
+
+<tabTrigger>sp-ftile</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-File tile</description>
+</snippet>
