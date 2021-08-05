@@ -1,0 +1,24 @@
+<snippet>
+    <content><![CDATA[
+<div class="popover popover-right">
+  <button class="btn btn-primary">right popover</button>
+  <div class="popover-container">
+    <div class="card">
+      <div class="card-header">
+        ${1: header text here}
+      </div>
+      <div class="card-body">
+        ${2: body content here}
+      </div>
+      <div class="card-footer">
+        ${3: footer text here}
+      </div>
+    </div>
+  </div>
+</div>
+]]></content>
+
+<tabTrigger>sp-rpop</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Right popovers</description>
+</snippet>
