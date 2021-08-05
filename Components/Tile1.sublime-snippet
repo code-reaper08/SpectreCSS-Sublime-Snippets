@@ -1,0 +1,22 @@
+<snippet>
+    <content><![CDATA[
+<div class="tile">
+  <div class="tile-icon">
+    <div class="example-tile-icon">
+      <i class="icon icon-file centered"></i>
+    </div>
+  </div>
+  <div class="tile-content">
+    <p class="tile-title">${1: title text here}</p>
+    <p class="tile-subtitle">${2: subtitle here}</p>
+  </div>
+  <div class="tile-action">
+    <button class="btn btn-primary">${3: button text here}</button>
+  </div>
+</div>
+]]></content>
+
+<tabTrigger>sp-tile1</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-tiles type1</description>
+</snippet>
