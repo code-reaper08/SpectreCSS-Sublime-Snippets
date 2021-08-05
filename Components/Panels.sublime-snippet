@@ -1,0 +1,22 @@
+<snippet>
+    <content><![CDATA[
+<div class="panel">
+  <div class="panel-header">
+    <div class="panel-title">${1: panel title here}</div>
+  </div>
+  <div class="panel-nav">
+    ${2: navigation tags and stuff here}
+  </div>
+  <div class="panel-body">
+    ${3: body content here}
+  </div>
+  <div class="panel-footer">
+    ${4: button or footer content here}
+  </div>
+</div>
+]]></content>
+
+<tabTrigger>sp-pnl</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-panel</description>
+</snippet>
