@@ -12,7 +12,7 @@
 </div>
 ]]></content>
 
-<tabTrigger>sp-nav1</tabTrigger>
+<tabTrigger>sp-navbar</tabTrigger>
 <scope>text.html</scope>
     <description>Spectre-navbar type 1</description>
 </snippet>
