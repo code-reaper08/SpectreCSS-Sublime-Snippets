@@ -1,0 +1,36 @@
+<snippet>
+    <content><![CDATA[
+<ul class="nav">
+  <li class="nav-item">
+    <a href="#">${1: nav item here}</a>
+  </li>
+  <li class="nav-item active">
+    <a href="#">${2: nav item here}</a>
+    <ul class="nav">
+      <li class="nav-item">
+        <a href="#">${3: nav item here}</a>
+      </li>
+      <li class="nav-item">
+        <a href="#">${4: nav item here}</a>
+      </li>
+      <li class="nav-item">
+        <a href="#">${5: nav item here}</a>
+      </li>
+      <li class="nav-item">
+        <a href="#">${6: nav item here}</a>
+      </li>
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a href="#">${7: nav item here}</a>
+  </li>
+  <li class="nav-item">
+    <a href="#">${8: nav item here}</a>
+  </li>
+</ul>
+]]></content>
+
+<tabTrigger>sp-nav</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-nav</description>
+</snippet>
