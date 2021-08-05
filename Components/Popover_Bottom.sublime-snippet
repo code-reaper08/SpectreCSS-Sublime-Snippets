@@ -1,0 +1,24 @@
+<snippet>
+    <content><![CDATA[
+<div class="popover popover-bottom">
+  <button class="btn btn-primary">${1: button text here}</button>
+  <div class="popover-container">
+    <div class="card">
+      <div class="card-header">
+        ${2: header text here}
+      </div>
+      <div class="card-body">
+        ${3: body content here}
+      </div>
+      <div class="card-footer">
+        ${4: footer text here}
+      </div>
+    </div>
+  </div>
+</div>
+]]></content>
+
+<tabTrigger>sp-bpop</tabTrigger>
+<scope>text.html</scope>
+    <description>Spectre-Bottom popovers</description>
+</snippet>
