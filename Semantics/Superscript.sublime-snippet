@@ -5,5 +5,5 @@ ${1:Text here} <sup>${2:Superscripted text here}</sup>
 
 <tabTrigger>sp-sup</tabTrigger>
 <scope>text.html</scope>
-    <description>Spectre-Superscripted text</description>
+    <description>Spectre: Superscripted text</description>
 </snippet>
