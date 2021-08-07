@@ -1,17 +1,17 @@
 # SpectreCSS
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://user-images.githubusercontent.com/64256342/128370480-ce2bd62e-f599-4fd0-8e40-1391fe5ce250.gif" alt="spectreman logo" width="200px">
 
-</div>
+</div> -->
 <div align="center">
 
-**A handy SpectreCSS snippet package for SublimeText **
+**A handy SpectreCSS snippet package for SublimeText**
 
 </div>
 
-## SpectreCSS:
+## SpectreCSS Snippets:
 
 SpectreCSS is a minimalistic CSS-only framework, which caught my eye, when i was searching for a pure CSS framework, giving me more flexibility and customization ability. When doing SpectreCSS, I got an idea to accomodate all the possible abilities of SpectreCSS into a ST package. I think SpectreCSS by itself is easy and smart, this autocomplete package will add to its simplicity by providing ready to use snippets at your disposal.
 
@@ -19,11 +19,11 @@ SpectreCSS is a minimalistic CSS-only framework, which caught my eye, when i was
 
 ### Package Control ![recommended](https://img.shields.io/badge/method-recommended-blue "Use this")
 
-The easiest way to install the SpectreMan is by using [Package Control](https://packagecontrol.io/). Installing it [is documented here](https://packagecontrol.io/installation).
+The easiest way to install the **SpectreCSS Snippets** is by using [Package Control](https://packagecontrol.io/). Installing it [is documented here](https://packagecontrol.io/installation).
 
 - Open Package Control (or hit Ctrl+Shift+P or Cmd+Shift+P)
 - Type _install_ and hit enter
-- Type SpectreMan and hit enter again
+- Type **SpectreCSS Snippets** and hit enter again
 
 ---
 
@@ -31,7 +31,7 @@ The easiest way to install the SpectreMan is by using [Package Control](https://
 
 > Use this method if you don’t have Package Control or Git
 
-- Open [https://github.com/code-reaper08/SpectreMan](https://github.com/code-reaper08/SpectreMan) in your browser
+- Open [https://github.com/code-reaper08/SpectreCSS-Sublime-Snippets](https://github.com/code-reaper08/SpectreCSS-Sublime-Snippets) in your browser
 - On the right hand side there is a _Download ZIP_ button – click it
 - Go to _Preferences_ and _Browse packages…_ which opens the Packages directory
 - Extract the archive inside the Packages directory
