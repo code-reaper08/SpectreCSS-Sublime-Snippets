@@ -1,4 +1,4 @@
-# SpectreMan
+# SpectreCSS
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 
-**SpectreMan to your rescue**
+**A handy SpectreCSS snippet package for SublimeText **
 
 </div>
 
