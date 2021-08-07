@@ -18,5 +18,5 @@
 
 <tabTrigger>sp-pg2</tabTrigger>
 <scope>text.html</scope>
-    <description>Spectre-pagination prev-next type</description>
+    <description>Spectre: pagination prev-next</description>
 </snippet>
