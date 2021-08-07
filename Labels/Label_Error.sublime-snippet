@@ -5,5 +5,5 @@ span class="label label-error">${1:label text here}</span>
 
 <tabTrigger>sp-lerr</tabTrigger>
 <scope>text.html</scope>
-    <description>Spectre-Label Error</description>
+    <description>Spectre: Label(Error)</description>
 </snippet>
