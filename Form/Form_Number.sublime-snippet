@@ -5,5 +5,5 @@ input class="form-input" type="number" placeholder="${1:placeholder text here}" 
 
 <tabTrigger>sp-fnum</tabTrigger>
 <scope>text.html</scope>
-    <description>Spectre-Number Input</description>
+    <description>Spectre: Number Input</description>
 </snippet>
