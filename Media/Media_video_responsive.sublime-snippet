@@ -5,5 +5,5 @@
 
 <tabTrigger>sp-v</tabTrigger>
 <scope>text.html</scope>
-    <description>Spectre-responsive video element</description>
+    <description>Spectre: responsive video</description>
 </snippet>

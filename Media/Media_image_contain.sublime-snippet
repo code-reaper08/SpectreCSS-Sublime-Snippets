@@ -5,5 +5,5 @@
 
 <tabTrigger>sp-i-con</tabTrigger>
 <scope>text.html</scope>
-    <description>Spectre-Image-Contain (auto crop itself)</description>
+    <description>Spectre: Image-Contain(auto crop)</description>
 </snippet>
