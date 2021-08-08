@@ -1,10 +1,10 @@
-# SpectreCSS
+# SpectreCSS Snippets
+<div align="center">
+  
+[![GitHub issues](https://img.shields.io/github/issues/code-reaper08/SpectreCSS-Sublime-Snippets?style=for-the-badge)](https://github.com/code-reaper08/SpectreCSS-Sublime-Snippets/issues) [![GitHub forks](https://img.shields.io/github/forks/code-reaper08/SpectreCSS-Sublime-Snippets?style=for-the-badge)](https://github.com/code-reaper08/SpectreCSS-Sublime-Snippets/network) [![GitHub stars](https://img.shields.io/github/stars/code-reaper08/SpectreCSS-Sublime-Snippets?style=for-the-badge)](https://github.com/code-reaper08/SpectreCSS-Sublime-Snippets/stargazers) [![GitHub license](https://img.shields.io/github/license/code-reaper08/SpectreCSS-Sublime-Snippets?style=for-the-badge)](https://github.com/code-reaper08/SpectreCSS-Sublime-Snippets/blob/main/LICENSE) ![GitHub repo size](https://img.shields.io/github/repo-size/code-reaper08/SpectreCSS-Sublime-Snippets?style=for-the-badge) ![Package Control](https://img.shields.io/packagecontrol/dt/SpectreCSS%20Snippets?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/code-reaper08/SpectreCSS-Sublime-Snippets?style=for-the-badge) 
+  
+ </div>
 
-<!-- <div align="center">
-
-<img src="https://user-images.githubusercontent.com/64256342/128370480-ce2bd62e-f599-4fd0-8e40-1391fe5ce250.gif" alt="spectreman logo" width="200px">
-
-</div> -->
 <div align="center">
 
 **A handy SpectreCSS snippet package for SublimeText**
