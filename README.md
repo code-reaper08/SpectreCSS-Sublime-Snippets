@@ -11,7 +11,7 @@
 
 </div>
 
-**Thanks for 25+ downloads**
+**Thanks for 40 downloads**
 
 ## SpectreCSS Snippets:
 
